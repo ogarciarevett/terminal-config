@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 180 180" role="img" aria-labelledby="title"><title id="title">a terminal prompt with a shooting star cursor</title>
+<rect x="17" y="32" width="146" height="120" rx="19" fill="#18283b" stroke="#8ee4cf" stroke-width="7"/>
+<path d="M21 62H159" stroke="#8ee4cf" stroke-width="5"/>
+<circle cx="35" cy="48" r="4" fill="#f4ba60"/><circle cx="49" cy="48" r="4" fill="#f4ba60"/><circle cx="63" cy="48" r="4" fill="#f4ba60"/>
+<path d="m43 83 23 19-23 19M79 121H102" fill="none" stroke="#8ee4cf" stroke-width="9" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="m137 77 5 11 12 2-9 8 2 12-10-6-10 6 2-12-9-8 12-2Z" fill="#f4ba60"/>
+<path d="m111 94-12 5M116 107l-8 7" stroke="#f4ba60" stroke-width="5" stroke-linecap="round"/>
+</svg>
